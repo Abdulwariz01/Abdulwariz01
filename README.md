@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Abdulwariz01/Abdulwariz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: warizakorede64@gmail.com
 - 😄 Pronouns: Him/he
 - ⚡ Fun fact: I'm really shy and always wish to learn.
--->
+
  
